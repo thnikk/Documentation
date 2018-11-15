@@ -22,7 +22,7 @@ Upon opening the program, it should immediately connect to the keypad. Follow th
 
 Make sure to close Termite when you're done, otherwise it may try to reconnect and lock up your keypad.
 
-.. image:: https://puu.sh/BRO0B/d9a97fe6dd.zip
+.. .. image:: https://puu.sh/BRO0B/d9a97fe6dd.zip
 
 Mac and Linux
 *************
