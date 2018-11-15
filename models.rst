@@ -56,6 +56,27 @@ Custom            LED uses user-specified color (can be set through Termite)
 Off               LED is turned off
 ================= ==============
 
+MegaTouch Keypad
+****************
+
+.. image:: https://i.etsystatic.com/10408775/r/il/136fc2/1673915594/il_1140xN.1673915594_mvj8.jpg
+
+A larger version of the 2K touch keypad. It features 60% larger touch pads (1 1/4" squares) with the same gap as the normal model, so it's great whether you just want a larger touch area or you play with your index+ring fingers! It's still just as slim at only 12 mm tall and is just as big as it needs to be to accommodate the touch pads. The side screw still functions as a capacitive button and is mapped to Escape by default, but can be easily remapped to something like ~ for quick restart. Configuration of LED modes and brightness can be done through the software remapper.
+
+LED modes
+-------------------------
+================= ==============
+Mode              Description
+================= ==============
+Cycle             Fades through rainbow; White when key is pressed; Off when side button is pressed
+Reactive          Turns to white when pressed and fades through r>g>b>off when released
+Reactive Inverted Fades through r>g>b>off when pressed and turns to white when released
+Color Change      Colors cycle in steps per-press per-key.
+BPS               Color changes depending number of keypresses per second and turns white while key is pressed
+Custom            LED uses user-specified color (can be set through Termite)
+Off               LED is turned off
+================= ==============
+
 
 RGB Keypad
 ************
@@ -120,7 +141,7 @@ Order           Mode
 ==============  ==============
 
 4K Touch Keypad
-************
+***************
 
 .. image:: https://i.imgur.com/VrA3h71.jpg
 
@@ -146,7 +167,7 @@ Off               LED is turned off
 
 
 4K RGB Keypad
-************
+*************
 
 .. image:: https://img.etsystatic.com/il/07b3a8/1453479854/il_fullxfull.1453479854_nb4u.jpg
 
@@ -177,7 +198,7 @@ Order           Mode
 ==============  ==============
 
 7K RGB Keypad
-************
+*************
 
 .. image:: https://i.etsystatic.com/10408775/r/il/e3a07b/1682539033/il_fullxfull.1682539033_e7fs.jpg
 
@@ -235,8 +256,8 @@ Page Keys
 6    all blank
 ==== =================
 
-Deprecated
-==========
+Upon Request
+============
 
 Future Tone Controller
 **********************
@@ -247,6 +268,9 @@ This is the small controller I made for Hatsune Miku: Project Diva Future Tone f
 .. image:: https://img1.etsystatic.com/211/0/10408775/il_fullxfull.1407795821_2vpk.jpg
 
 .. image:: https://img1.etsystatic.com/214/0/10408775/il_fullxfull.1407795827_4g75.jpg
+
+Discontinued
+============
 
 LED Keypad
 ************

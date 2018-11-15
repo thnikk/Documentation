@@ -50,27 +50,33 @@ One other thing to mention is the difference between Gateron and Cherry switches
 Cherry MX Silver
 ~~~~~~~~~~~~~~~~
 
-Though MX silvers (also referred to as MX Speed switches) have the same actuation force as MX reds, there are two key differences that set them apart. The first is their higher actuation point, at 1.2 mm instead of the 2 mm on a normal Cherry MX switch. This means the key will be detected as pressed much higher in the keystroke, but I think the same caveat exists that does with tactile/clicky switches. In a hectic gaming scenario, particularly with playing a rhythm game, it won't make a difference if you're bottoming out the keys. However, the second difference is that they bottom out at 3.4 mm instead of the typical 4 mm, which means it should have an impact (no matter how miniscule) whether you bottom out the keys or not.
+Though MX silvers (also referred to as MX Speed switches) have the same actuation force as MX reds, there are two key differences that set them apart. The first is their higher actuation point, at 1.2 mm instead of the 2 mm on a normal Cherry MX switch. This means the key will be detected as pressed much higher in the keystroke, but I think the same caveat exists that does with tactile/clicky switches. In a hectic gaming scenario, particularly with playing a rhythm game, it won't make a difference if you're bottoming out the keys. However, the second difference is that they bottom out at 3.4 mm instead of the typical 4 mm, which means it should have an impact (no matter how minuscule) whether you bottom out the keys or not.
 
 Touch Keypad
 ~~~~~~~~~~~~
 
-This isn't a switch, per se, but I think it's worth including here just as a reminder that it's an option.
+This isn't a switch, per se, but I think it's worth including here just as a reminder that it's an option. There are a few advantages to the touch keypad:
 
-There's a definite learning curve. If you play any mobile rhythm games and don't mind the feel, and especially if you turn off hit sounds like me, I think it's a no-brainer and the adjustment period should be very short for you.
+  - It's actually silent. You're not pressing anything that moves, so it should be very similar to tapping directly on your desk but with a little extra padding thanks to the micro-suction tape on the bottom of the keypad.
+
+  - It's small. The regular touch models are small enough to not even notice in a bag and the MegaTouch models are a bit bigger, but still thin enough to fit in a small backpack pocket without being bulgey.
+
+  - The travel distance is effectively zero. If you normally hover over your mechanical keys, this is worth considering since not only do you need to push down until your fingers touch the keycaps, but they have to continue to push the key down to the actuation point and maybe even to bottom out the switch, which can easily be ~5 mm. The touch models detect your fingers on contact so the only finger movement is to make contact with the pads.
+
+There's a bit of a learning curve. If you play any mobile rhythm games and don't mind the feel, and especially if you turn off hit sounds like me, I think it's a no-brainer and the adjustment period should be very short for you.
 
 Keycaps
 *******
 
+.. image:: https://i.imgur.com/1f1l3yv.png
+
 DCS
 ~~~
-.. image:: http://keycapsdirect.com/images/key-caps/angle3.jpg
 
 DCS keycaps are what you'll most commonly find on mechanical keyboards. They feature a subtle curve vertically that your finger can rest in and an angle depending on the row. They are comfortable for both typing and osu, but you have to be a bit more precise with your button presses.
 
 DSA
 ~~~
-.. image:: http://keycapsdirect.com/images/key-caps/angle2.jpg
 
 DSA keycaps are a little more rare but offer a completely flat profile across all keyboard rows. This makes it easy to get a whole bunch of blank ones since all 1x keycaps are the same, unlike the DCS keycaps that differ by row. They have an old-fasioned look to them and feature a slight concave curvature on the top of the key. They work well for osu but less for typing on a keyboard since the flatness of them makes them less ergonomic.
 
@@ -80,4 +86,4 @@ Flat
 
 Flat keycaps are the least common by far. I bought a few from pimpmykeyboard.com a year or two ago and loved them, but they were a bit too expensive so I figured nobody would want to pay $4+ for them. Fast forward to 2017 and I have a bit more experience in 3D printing. Now I can offer them not only as a cost saving measure to both you and myself, but also be happy that they work well and provide a very nice experience in osu.
 
-These offer two major improvements over DCS and DSA keycaps. They expand the surface area of the top of the key to their maximum, giving you more leeway with where you press. They also allow me to have better control of both the travel distance and the max height of the keypad, which means that your hand won't have to rest at as high of an angle which should reult in a more comfortable experience over long sessions.
+These offer two major improvements over DCS and DSA keycaps. They expand the surface area of the top of the key to their maximum, giving you more leeway with where you press. They also allow me to have better control of both the travel distance and the max height of the keypad, which means that your hand won't have to rest at as high of an angle which should result in a more comfortable experience over long sessions.
