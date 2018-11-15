@@ -36,7 +36,7 @@ Order           Mode
 Touch Keypad
 ************
 
-.. image:: https://img.etsystatic.com/il/c80397/1536204894/il_fullxfull.1536204894_7bnf.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/b6bada/1721382343/il_1140xN.1721382343_fx24.jpg
 
 A 2-key keypad that uses two capacitive metal pads instead of switches, which results in faster key presses (by removing key travel) and a slimmer keypad. It features LED modes specifically rewritten for this model and a side button that is... a screw? The side screw is just like the two top keys and will press the mapped key when touched (escape by default.)
 
