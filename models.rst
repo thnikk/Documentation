@@ -209,7 +209,7 @@ Order           Mode
 
 Macropad
 ********
-.. image:: http://thnikk.moe/img/docs/models/macro.png
+.. image:: https://i.etsystatic.com/10408775/r/il/43b6d1/1525490161/il_1140xN.1525490161_hbhf.jpg
 
 By popular request, I made a keypad focused less on crazy lights and more on people that want the ability to quickly switch between button mappings. This model features not only the ability to map each key to up to 3 keys, but also six "pages" of mappings that you can change by holding the side button and pressing one of the six keys. It also has a single RGB LED to show the current page.
 
