@@ -12,13 +12,9 @@ Once the drivers are installed, download and extract Termite. You want to make s
 
 `Download Termite <https://puu.sh/w8Zj5/01aa028013.zip>`_
 
-* Package updated 1/19/17
-
-  * Changed font to monospaced
-  * Enabled setting to keep connection active when window isn't focused
-  * Enabled word wrap
-
 Upon opening the program, it should immediately connect to the keypad. Follow the directions in the remapper and you're all set!
+
+* If you have any problems, make sure your settings match these (except for the port since it may be different for you): http://puu.sh/C8hhI/6d005fdf84.png
 
 Make sure to close Termite when you're done, otherwise it may try to reconnect and lock up your keypad.
 
