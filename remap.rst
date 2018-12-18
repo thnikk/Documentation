@@ -23,16 +23,23 @@ Make sure to close Termite when you're done, otherwise it may try to reconnect a
 Mac and Linux
 *************
 
-The procedure for Mac and Linux is the same since we'll be using the screen command on both. As we do on windows, you'll first need to find the com port the keypad is using. You can do so by entering this into the terminal:
+We'll be using the screen command on both Mac and Linux. As we do on windows, you'll first need to find the port the keypad is using. 
+
+**On Linux, can do so by entering this into the terminal:**
 
 :code:`dmesg | grep tty`
 
-If you just plugged the keypad in, it should be the last thing listed. In my case it's using /dev/ttyACM0. Now we can start serial communications using screen.
+**On Mac, enter this:**
+
+:code:`ls -l /dev/cu.*`
+
+If you just plugged the keypad in, it should be the last thing listed. In my case it's using ``/dev/ttyACM0``. Now we can start serial communications using screen. On Mac the keypad might show up, confusingly, with a USB modem name like ``/dev/cu.usbmodemHIDPC1``.
+
+Next, take that name (e.g. ``/dev/ttyACM0`` or ``/dev/cu.usbmodemHIDPC1``) and run screen:
 
 :code:`screen /dev/ttyACM0 9600`
 
 That's it!
-
 
 Universal
 *********
