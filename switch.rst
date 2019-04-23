@@ -1,8 +1,33 @@
 Changing Your Keypad's Switches
 ===============================
 
-Overview
+Disclaimer
 ********
+If your keypad was purchased before 3/15/19, please use the guide for the older models. Using this guide for older keypads can cause permanent damage as the switches are not hot-swappable . If your keypad was purchased after 3/15/19, continue here.
+
+Keypads purchased after 3/15/19
+********************************
+
+What You'll Need
+****************
+
+.. image:: https://thnikk.moe/img/docs/switchPuller.jpg
+
+-Switches
+
+-Switch puller (IC puller), optional
+
+Removing your switches
+**********************
+This is a simple procedure and all you have to do is get the tips of the pullers under the clips on the switches and pull straight up. Any lateral force when removing switches can cause the pins to bend, so be careful to only apply force up. The switch puller is optional but I think it's much easier than using your fingers.
+
+.. image:: https://thnikk.moe/img/docs/switchRemoval.jpg
+
+Now you can put the new switch in! Make sure the pins on the new switches are straight and push them straight down. If you feel any resistance, pull the switch up, check the pins, and try again. 
+
+
+Keypads purchased before 3/15/19
+********************************
 This guide will walk you through swapping the internals of a Cherry MX compatible switch with another one. This is meant to be simpler than replacing the entire switch, which would require resoldering. This still gives the desired effect but lets things like RGB LEDs be mounted on the back of the switch without having to replace them when you want to change the switch.
 
 
