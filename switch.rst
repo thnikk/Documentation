@@ -23,7 +23,10 @@ This is a simple procedure and all you have to do is get the tips of the pullers
 
 .. image:: https://thnikk.moe/img/docs/switchRemoval.jpg
 
-Now you can put the new switch in! Make sure the pins on the new switches are straight and push them straight down. If you feel any resistance, pull the switch up, check the pins, and try again. 
+Installing new switches
+***********************
+
+Now you can put the new switch in! Make sure the pins on the new switches are straight and push them straight down. If you feel any resistance, pull the switch up, check the pins, and try again. If the pins aren't straight and the switch isn't pushed straight down, they can bend or curl and cause permanent damage to the switch, so be careful and take your time.
 
 
 Keypads purchased before 3/15/19
