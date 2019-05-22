@@ -5,7 +5,7 @@ Keypad Models
 Basic Keypad
 ************
 
-.. image:: https://img.etsystatic.com/il/022ce6/1453471138/il_fullxfull.1453471138_pc57.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/ee6469/1815361172/il_794xN.1815361172_e6lb.jpg
 
 A simple 2-key keypad. This was previously the "no bells and whistles" model, but now features a bottom-mounted RGB LED that adds some RGB underglow to the keypad!  The side button functions as escape and is also used to change LED modes and the color of the keys on the "custom" LED mode.
 
@@ -81,7 +81,7 @@ Off               LED is turned off
 RGB Keypad
 ************
 
-.. image:: https://img.etsystatic.com/il/ada2e4/1453472428/il_fullxfull.1453472428_dekw.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/30518a/1815363268/il_794xN.1815363268_f269.jpg
 
 A fancier version of the basic model that features not only the bottom-mounted LED, but also an RGB LED under each key. This makes for much brighter and more prominent lighting effects. The side button functions as escape and is also used to change LED modes, brightness, and the colors of the keys on the "custom" LED mode.
 
@@ -112,7 +112,7 @@ Order           Mode
 Basic 4K Keypad
 ***************
 
-.. image:: https://img.etsystatic.com/il/005ff8/1453474430/il_fullxfull.1453474430_re6k.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/994247/1815371144/il_794xN.1815371144_dep9.jpg
 
 A 4-key version of the RGB keypad made for use with Taiko and Mania. Like the 2K basic model, this was previously the "no bells and whistles" model, but now features a bottom-mounted RGB LED that adds some RGB underglow to the keypad!  The side button functions as escape and is also used to change LED modes and the color of the keys on the "custom" LED mode.
 
@@ -169,7 +169,7 @@ Off               LED is turned off
 4K RGB Keypad
 *************
 
-.. image:: https://img.etsystatic.com/il/07b3a8/1453479854/il_fullxfull.1453479854_nb4u.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/fe8b17/1815376512/il_794xN.1815376512_fayq.jpg
 
 A fancier version of the basic 4K keypad made for use with Taiko and Mania. This model that features not only the bottom-mounted LED, but also an RGB LED under each key. This makes for much brighter and more prominent lighting effects. The side button functions as escape and is also used to change LED modes, brightness, and the colors of the keys on the "custom" LED mode.
 
