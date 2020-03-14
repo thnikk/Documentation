@@ -45,6 +45,7 @@ All settings are accessible from the controller itself by pressing back and star
     </div>
 
 
+
 Profiles
 --------
 From the main menu, you can press one of the 8 keys on the right to switch between 8 different profiles. These all have independent settings so you can set up each profile for a different game, each with different colors and mappings.
@@ -61,6 +62,7 @@ You can press the start button after entering the menu to enter the remapper. Wh
             Your browser does not support the video tag.
         </video>
     </div>
+
 
 
 Color changing
@@ -92,6 +94,7 @@ Pressing L3 and R3 simultaneously in the main menu will clear the current profil
             Your browser does not support the video tag.
         </video>
     </div>
+
 
 
 Exiting menus
