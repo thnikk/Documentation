@@ -5,7 +5,7 @@ Keypad Models
 Basic Keypad
 ************
 
-.. image:: https://i.etsystatic.com/10408775/r/il/ee6469/1815361172/il_794xN.1815361172_e6lb.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/f84dce/2002476588/il_fullxfull.2002476588_gwbu.jpg
 
 A simple 2-key keypad. This was previously the "no bells and whistles" model, but now features a bottom-mounted RGB LED that adds some RGB underglow to the keypad!  The side button functions as escape and is also used to change LED modes and the color of the keys on the "custom" LED mode.
 
@@ -36,7 +36,7 @@ Order           Mode
 Touch Keypad
 ************
 
-.. image:: https://i.etsystatic.com/10408775/r/il/b6bada/1721382343/il_1140xN.1721382343_fx24.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/5b9593/2002504482/il_fullxfull.2002504482_tjhc.jpg
 
 A 2-key keypad that uses two capacitive metal pads instead of switches, which results in faster key presses (by removing key travel) and a slimmer keypad. It features LED modes specifically rewritten for this model and a side button that is... a screw? The side screw is just like the two top keys and will press the mapped key when touched (escape by default.)
 
@@ -59,7 +59,7 @@ Off               LED is turned off
 MegaTouch Keypad
 ****************
 
-.. image:: https://i.etsystatic.com/10408775/r/il/136fc2/1673915594/il_1140xN.1673915594_mvj8.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/50c82f/2050079633/il_fullxfull.2050079633_4tm4.jpg
 
 A larger version of the 2K touch keypad. It features 60% larger touch pads (1 1/4" squares) with the same gap as the normal model, so it's great whether you just want a larger touch area or you play with your index+ring fingers! It's still just as slim at only 12 mm tall and is just as big as it needs to be to accommodate the touch pads. The side screw still functions as a capacitive button and is mapped to Escape by default, but can be easily remapped to something like ~ for quick restart. Configuration of LED modes and brightness can be done through the software remapper.
 
@@ -81,7 +81,7 @@ Off               LED is turned off
 RGB Keypad
 ************
 
-.. image:: https://i.etsystatic.com/10408775/r/il/30518a/1815363268/il_794xN.1815363268_f269.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/6ed440/2050047263/il_fullxfull.2050047263_tw2u.jpg
 
 A fancier version of the basic model that features not only the bottom-mounted LED, but also an RGB LED under each key. This makes for much brighter and more prominent lighting effects. The side button functions as escape and is also used to change LED modes, brightness, and the colors of the keys on the "custom" LED mode.
 
@@ -112,7 +112,7 @@ Order           Mode
 Basic 4K Keypad
 ***************
 
-.. image:: https://i.etsystatic.com/10408775/r/il/994247/1815371144/il_794xN.1815371144_dep9.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/02d625/2002498160/il_fullxfull.2002498160_26r3.jpg
 
 A 4-key version of the RGB keypad made for use with Taiko and Mania. Like the 2K basic model, this was previously the "no bells and whistles" model, but now features a bottom-mounted RGB LED that adds some RGB underglow to the keypad!  The side button functions as escape and is also used to change LED modes and the color of the keys on the "custom" LED mode.
 
@@ -143,7 +143,7 @@ Order           Mode
 4K Touch Keypad
 ***************
 
-.. image:: https://i.imgur.com/VrA3h71.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/d34ec2/2050075861/il_fullxfull.2050075861_6wtx.jpg
 
 Looking for something slimmer, quieter, more portable, or all three? This 4-key keypad primarily for Mania and Taiko uses two capacitive pads instead of switches, which results in faster key presses (by eliminating key travel) and a slimmer design. It features LED modes specifically rewritten for this model and a side button that is... a screw? The side screw is just like the two top keys and will press the mapped key when touched (escape by default.)
 
@@ -169,7 +169,7 @@ Off               LED is turned off
 4K RGB Keypad
 *************
 
-.. image:: https://i.etsystatic.com/10408775/r/il/fe8b17/1815376512/il_794xN.1815376512_fayq.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/dfea96/2002497066/il_fullxfull.2002497066_3tkb.jpg
 
 A fancier version of the basic 4K keypad made for use with Taiko and Mania. This model that features not only the bottom-mounted LED, but also an RGB LED under each key. This makes for much brighter and more prominent lighting effects. The side button functions as escape and is also used to change LED modes, brightness, and the colors of the keys on the "custom" LED mode.
 
@@ -200,7 +200,7 @@ Order           Mode
 7K RGB Keypad
 *************
 
-.. image:: https://i.etsystatic.com/10408775/r/il/e3a07b/1682539033/il_fullxfull.1682539033_e7fs.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/496017/2025253833/il_fullxfull.2025253833_pcqj.jpg
 
 A keypad made for 5K and 7K osu!Mania. This keypad features seven LEDs for interesting LED modes and full NKRO. The bottom key uses a 2x width angled keycap for better ergonomics. There is also a multi-function key (this is the same as the side button on my other models) that can be used to either configure your keypad or as a simple escape key.
 
@@ -230,7 +230,7 @@ Order           Mode
 
 Macropad
 ********
-.. image:: https://i.etsystatic.com/10408775/r/il/43b6d1/1525490161/il_1140xN.1525490161_hbhf.jpg
+.. image:: https://i.etsystatic.com/10408775/r/il/81b383/2050064551/il_fullxfull.2050064551_qx8l.jpg
 
 By popular request, I made a keypad focused less on crazy lights and more on people that want the ability to quickly switch between button mappings. This model features not only the ability to map each key to up to 3 keys, but also six "pages" of mappings that you can change by holding the side button and pressing one of the six keys. It also has a single RGB LED to show the current page.
 
@@ -256,47 +256,16 @@ Page Keys
 6    all blank
 ==== =================
 
-Upon Request
-============
+Coming Soon
+===========
 
-Future Tone Controller
-**********************
-.. image:: https://img0.etsystatic.com/204/0/10408775/il_fullxfull.1360528126_hpn6.jpg
+Fightboard
+**********
 
-This is the small controller I made for Hatsune Miku: Project Diva Future Tone for PS4. There is a mode select button on the front of the controller that allows you to switch between DS4 and arcade mode. DS4 mode maps the buttons to the standard DS4 layout and arcade mode maps the keys in a horizontal layout like you'd get on the arcade cabinet. This makes hold notes a lot more natural wihout sacrificing speed since the arrow buttons are all adjacent to their corresponding buttons. When the mode is changed, the LEDs change color to match the corresponding layout.
 
-.. image:: https://img1.etsystatic.com/211/0/10408775/il_fullxfull.1407795821_2vpk.jpg
 
-.. image:: https://img1.etsystatic.com/214/0/10408775/il_fullxfull.1407795827_4g75.jpg
+2x2 Keypad
+**********
 
-Discontinued
-============
+Think you need more than two keys for osu? Want to easily be able to restart a song, change volume, and navigate the song menu? Four keys are better for that than two, and the side button functions as a modifier key, effectively giving you 8 mappable keys!
 
-LED Keypad
-************
-
-.. image:: http://thnikk.moe/img/docs/models/2kled.png
-
-This is the LED model. It features a white LED on each of the two face keys. The side button functions as escape and is also used to change LED modes and brightness.
-
-Side button functionality
--------------------------
-==============  ==============
-Hold time       Functionality
-==============  ==============
-Less than 0.5s  EscapeA 4-key version
-0.5 - 1.5s      Change LED mode
-more than 1.5s  Change brightness (Press Z to lower and X to raise)
-==============  ==============
-
-LED modes
--------------------------
-==============  ==============
-Order           Mode
-==============  ==============
-1               Reactive - Turns LEDs on when pressed and fades out when released.
-2               Push Off - Turns LEDs off when pressed and fades on when released.
-3               Breathe - Fades LEDs in and out.
-4               On - LEDs stay on.
-5               Off - LEDs stay off.
-==============  ==============
