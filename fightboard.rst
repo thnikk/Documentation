@@ -27,7 +27,7 @@ Unhappy with your switch coice? Want different zones with different types of swi
 
 RGB LEDs
 --------
-The RGB LEDs indicate the function of each button. The default profile uses XBox colors for the 4 face buttons, but these can be changed to suit your preferences or the colors used in-game. The LED for each key turns off when the key is pressed and fades back on when released.
+The RGB LEDs indicate the function of each button. The default profile uses Xbox colors for the 4 face buttons, but these can be changed to suit your preferences or the colors used in-game. The LED for each key turns off when the key is pressed and fades back on when released.
 
 Idle mode
 ---------
@@ -36,6 +36,21 @@ The LEDs will turn off after a minute of inactivity. Pressing any button will tu
 Easy remapping
 --------------
 Settings are all built into the keypad and allow you to remap keys on-the-fly.
+
+Console compatibility with adapters
+-----------------------------------
+
+By default, the Fightboard is only compatible with PC. However, its compatibility can be expanded with the purchase with an adapter that converts Xbox 360 controllers to your console of choice. Below is the full compatibility list based on my testing.
+
+==============  ==========  =======
+System          Compatible  Link
+==============  ==========  =======
+PC              Yes         No adapter needed
+Switch          Untested    `Amazon <https://www.amazon.com/Gam3Gear-Converter-Nintendo-Controller-Keychain/dp/B0753XF3WT>`_
+Xbox One        Yes         `Amazon <https://www.amazon.com/Brook-Super-Converter-Controller-Adapter/dp/B00VY4MMGG>`_
+PS4             Yes         `Amazon <https://www.amazon.com/Brook-Super-Converter-Xbox-360-one/dp/B018T3WKNY>`_
+Xbox 360        No          Not compatible
+==============  ==========  =======
 
 Menu
 ****
