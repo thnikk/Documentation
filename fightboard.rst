@@ -35,9 +35,6 @@ Menu
 ****
 All settings are accessible from the controller itself by pressing back and start simultaneously.
 
-.. video:: https://thnikk.github.io/files/videos/menuOpen.mp4
-
-
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
