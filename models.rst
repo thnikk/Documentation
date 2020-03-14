@@ -259,13 +259,6 @@ Page Keys
 Coming Soon
 ===========
 
-Fightboard
-**********
-.. image:: https://cdn.shopify.com/s/files/1/0093/7295/8767/products/IMG_0934_1024x1024@2x.jpg?v=1583586229
-
-Have you ever been frustrated with joysticks? Do you want something to use on your desk that isn't a massive box you have to put away somewhere when you're not using it? Do you prefer the natural spacing of a keyboard over the finger-stretching traditional arcade buttons? Maybe you want something that you can easily use on-the-go. The Fightboard solves all of those problems.
-
-
 2x2 Keypad
 **********
 .. image:: https://thnikk.github.io/images/2x2.png

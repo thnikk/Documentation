@@ -13,12 +13,12 @@ Pages
 ^^^^^^^^
 
 .. toctree::
-   :maxdepth: 1 
+   :maxdepth: 1
 
    buyguide
    quickstart
    models
-    macropad
+   fightboard
    driver
    remap
    program
