@@ -9,6 +9,8 @@ Features
 
 Ergonomic layout
 ----------------
+.. image:: https://thnikk.github.io/images/fbLayout.png
+
 The Fightboard uses a combination of an arrow/wasd cluster at a 15% angle and action buttons following the traditional arcade stick layout but with the spacing of keyboard keys.
 
 Kailh Choc switches
