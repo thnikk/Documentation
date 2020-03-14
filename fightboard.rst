@@ -35,11 +35,7 @@ Menu
 ****
 All settings are accessible from the controller itself by pressing back and start simultaneously.
 
-.. raw:: html
-    <video width="1020" controls>
-        <source src-"https://thnikk.github.io/files/videos/menuOpen.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+.. video:: https://thnikk.github.io/files/videos/menuOpen.mp4
 
 Profiles
 --------
