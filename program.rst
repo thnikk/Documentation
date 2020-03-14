@@ -95,9 +95,13 @@ There are some things you should familiarize yourself with before you get starte
 
 `digitalRead() <https://www.arduino.cc/en/Reference/DigitalRead>`_ for reading button inputs.
 
-`analogWrite() <https://www.arduino.cc/en/Reference/AnalogWrite>`_ for controlling single-color LEDs.
-
 The `neopixel library <https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library>`_ for controlling RGB LEDs.
+
+The `EEPROM library <https://www.arduino.cc/en/Reference/EEPROM>`_ for persistent settings.
+
+`Arrays <https://www.arduino.cc/reference/en/language/variables/data-types/array/>`_ for variables in for loops.
+
+`Data types <https://www.tutorialspoint.com/arduino/arduino_data_types.htm>`_ for variables in general.
 
 
 You should also know...
@@ -109,5 +113,9 @@ You should also know...
 
 `millis timers <https://learn.adafruit.com/multi-tasking-the-arduino-part-1/using-millis-for-timing>`_
 
+I wouldn't recommend trying to change random variables unless you can actually follow the logic and see exactly what they're changing. Some of them may tie in somewhere else and cause unexpected results. Future versions of the firmware will make changes easier by separating variables based on editable settings and things like counters which should never be changed.
 
-I wouldn't recommend trying to change random variables unless you can actually follow the logic and see exactly what they're changing. Some of them may tie in somewhere else and cause unexpected results.
+The best way to learn
+---------------------
+
+If you'd really like to learn, starting with the absolute basics, I would recommend starting with a simple blink sketch using the Arduino IDE. It's easy to pull up and edit, and it's also easy to start combining the blink sketch with a button sketch to make one of the keys activate the LED, etc. Example sketches are extremely helpful for learning, and creating a basic sketch that can press z and x with the two main keys from examples you can follow will do a lot more for you than reading though pages on specific things.
