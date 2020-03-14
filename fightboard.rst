@@ -37,11 +37,13 @@ All settings are accessible from the controller itself by pressing back and star
 
 .. video:: https://thnikk.github.io/files/videos/menuOpen.mp4
 
+
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
     <iframe width="100%" height="350" src="https://www.youtube.com/embed/oJsUvBQyHBs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
+
 
 .. raw:: html
 
@@ -51,6 +53,7 @@ All settings are accessible from the controller itself by pressing back and star
             Your browser does not support the video tag.
         </video>
     </div>
+
 
 Profiles
 --------
