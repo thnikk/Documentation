@@ -37,15 +37,8 @@ All settings are accessible from the controller itself by pressing back and star
 
 .. raw:: html
 
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://www.youtube.com/embed/oJsUvBQyHBs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
-
-
-.. raw:: html
-
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <video width="320" height="240" controls>
+        <video controls>
             <source src="https://thnikk.github.io/files/videos/menuOpen.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
@@ -60,9 +53,28 @@ Remapping
 ---------
 You can press the start button after entering the menu to enter the remapper. While in the remapper, pressing one button will make it pulse quickly. Press another button and the two buttons will swap places, along with their colors.
 
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <video controls>
+            <source src="https://thnikk.github.io/files/videos/remap.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+
 Color changing
 --------------
 You can also press back on the main menu to enter color changing mode. Pressing one of the keys will cycle through RGB for that key.
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <video controls>
+            <source src="https://thnikk.github.io/files/videos/color.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 
 
 .. warning::
@@ -72,6 +84,27 @@ Resetting
 ---------
 Pressing L3 and R3 simultaneously in the main menu will clear the current profile back to its default settings.
 
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <video controls>
+            <source src="https://thnikk.github.io/files/videos/reset.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+
 Exiting menus
 -------------
 Pressing the home button will always take you one step back out of a menu, meaning it will take you to the main menu on the color changer or remapper and exit from the main menu.
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <video controls>
+            <source src="https://thnikk.github.io/files/videos/menuClose.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+
