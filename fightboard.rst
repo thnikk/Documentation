@@ -58,8 +58,8 @@ All settings are accessible from the controller itself by pressing back and star
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom:20px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <video width="696" controls>
+    <div>
+        <video width="100%" controls>
             <source src="https://thnikk.github.io/files/videos/menuOpen.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
@@ -77,8 +77,8 @@ You can press the start button after entering the menu to enter the remapper. Wh
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom:20px; height: 0; width overflow: hidden; max-width: 100%; height: auto;">
-        <video width="696" controls>
+    <div>
+        <video width="100%" controls>
             <source src="https://thnikk.github.io/files/videos/remap.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
@@ -92,8 +92,8 @@ You can also press back on the main menu to enter color changing mode. Pressing 
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom:20px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <video width="696" controls>
+    <div>
+        <video width="100%" controls>
             <source src="https://thnikk.github.io/files/videos/color.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
@@ -109,8 +109,8 @@ Pressing L3 and R3 simultaneously in the main menu will clear the current profil
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom:20px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <video width="696" controls>
+    <div>
+        <video width="100%" controls>
             <source src="https://thnikk.github.io/files/videos/reset.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
@@ -124,8 +124,8 @@ Pressing the home button will always take you one step back out of a menu, meani
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom:20px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <video width="696" controls>
+    <div>
+        <video width="100%" controls>
             <source src="https://thnikk.github.io/files/videos/menuClose.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
