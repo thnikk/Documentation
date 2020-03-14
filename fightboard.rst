@@ -15,10 +15,14 @@ The Fightboard uses a combination of an arrow/wasd cluster at a 15% angle and ac
 
 Kailh Choc switches
 -------------------
+.. image:: https://thnikk.github.io/images/kailhLP.jpg
+
 Why low-profile switches? One of my main design goals for this controller was to make it as slim as possible to improve ergonomics and portability. These low-profile switches have 3mm of travel compared to the 4mm of Cherry MX switches, with an actuatuion point 1mm higher as well. They also help the Fightboard come in at only 22mm thick, as the lower half of the switch is also much shorter.
 
 Hot-swap sockets
 ----------------
+.. image:: https://thnikk.github.io/images/kailhHS.png
+
 Unhappy with your switch coice? Want different zones with different types of switches? All you have to do is pull them out and swap them with whatever you prefer, no soldering required.
 
 RGB LEDs
@@ -39,7 +43,7 @@ All settings are accessible from the controller itself by pressing back and star
 
 .. raw:: html
 
-    <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <div style="position: relative; padding-bottom:20px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <video width="696" controls>
             <source src="https://thnikk.github.io/files/videos/menuOpen.mp4" type="video/mp4">
             Your browser does not support the video tag.
@@ -58,7 +62,7 @@ You can press the start button after entering the menu to enter the remapper. Wh
 
 .. raw:: html
 
-    <div style="position: relative; height: 0; width overflow: hidden; max-width: 100%; height: auto;">
+    <div style="position: relative; padding-bottom:20px; height: 0; width overflow: hidden; max-width: 100%; height: auto;">
         <video width="696" controls>
             <source src="https://thnikk.github.io/files/videos/remap.mp4" type="video/mp4">
             Your browser does not support the video tag.
@@ -73,7 +77,7 @@ You can also press back on the main menu to enter color changing mode. Pressing 
 
 .. raw:: html
 
-    <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <div style="position: relative; padding-bottom:20px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <video width="696" controls>
             <source src="https://thnikk.github.io/files/videos/color.mp4" type="video/mp4">
             Your browser does not support the video tag.
@@ -90,7 +94,7 @@ Pressing L3 and R3 simultaneously in the main menu will clear the current profil
 
 .. raw:: html
 
-    <div style="position: relative;  height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <div style="position: relative; padding-bottom:20px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <video width="696" controls>
             <source src="https://thnikk.github.io/files/videos/reset.mp4" type="video/mp4">
             Your browser does not support the video tag.
@@ -105,7 +109,7 @@ Pressing the home button will always take you one step back out of a menu, meani
 
 .. raw:: html
 
-    <div style="position: relative;  height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <div style="position: relative; padding-bottom:20px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <video width="696" controls>
             <source src="https://thnikk.github.io/files/videos/menuClose.mp4" type="video/mp4">
             Your browser does not support the video tag.
