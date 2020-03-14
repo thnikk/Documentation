@@ -2,7 +2,7 @@ Fightboard
 ===========
 .. image:: https://cdn.shopify.com/s/files/1/0093/7295/8767/products/IMG_0934_1024x1024@2x.jpg?v=1583586229
 
-Have you ever been frustrated with joysticks? Do you want something to use on your desk that isn't a massive box you have to put away somewhere when you're not using it? Do you prefer the natural spacing of a keyboard over the finger-stretching traditional arcade buttons? Maybe you want something that you can easily use on-the-go. The Fightboard solves all of those problems.
+Have you ever been frustrated with joysticks? Do you want something to use on your desk that isn't a massive box you have to put away somewhere when you're not using it? Do you prefer the natural spacing of a keyboard over the finger-stretching traditional arcade buttons? Maybe you want something that you can easily use on-the-go. The Fightboard aims to solve all of those problems.
 
 Features
 ********
@@ -36,6 +36,21 @@ Menu
 All settings are accessible from the controller itself by pressing back and start simultaneously.
 
 .. video:: https://thnikk.github.io/files/videos/menuOpen.mp4
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="//www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <video width="320" height="240" controls>
+            <source src="https://thnikk.github.io/files/videos/menuOpen.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 
 Profiles
 --------
