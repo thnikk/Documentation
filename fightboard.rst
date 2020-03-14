@@ -17,7 +17,7 @@ Kailh Choc switches
 -------------------
 .. image:: https://thnikk.github.io/images/kailhLP.jpg
 
-Why low-profile switches? One of my main design goals for this controller was to make it as slim as possible to improve ergonomics and portability. These low-profile switches have 3mm of travel compared to the 4mm of Cherry MX switches, with an actuatuion point 1mm higher as well. They also help the Fightboard come in at only 22mm thick, as the lower half of the switch is also much shorter.
+Why low-profile switches? One of my main design goals for this controller was to make it as slim as possible to improve ergonomics and portability. These low-profile switches have 3mm of travel compared to the 4mm of Cherry MX switches, with an actuation point 1mm higher as well. They also help the Fightboard come in at only 22mm thick, as the lower half of the switch is also much shorter.
 
 Hot-swap sockets
 ----------------

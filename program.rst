@@ -4,13 +4,60 @@ Programming Your Keypad
 .. warning::
     This guide is NOT for remapping keys. Even if you do reprogram the keypad, you will only be reverting back to the default keymappings. If you'd like to remap your keys, follow the remapping guide.
 
-PlatformIO
-**********
+Visual Studio Code
+******************
+VS Code is Microsoft's text editor that makes compiling code extremely easy with extensions. I previously recommended Atom for this install guide, but since PlatformIO now officially recommends VS Code and it does a few things better, I have updated the guide accordingly.
 
-What is it?
------------
-PlatformIO is an IDE like the Arduino IDE but is integrated with your text editor!
+.. image:: https://raw.githubusercontent.com/thnikk/thnikk.github.io/master/images/rst/program/vscode.png
 
+Download
+--------
+VS Code can be downloaded here:
+
+`Visual Studio Code <https://code.visualstudio.com/download>`_
+
+You also need to download the code for your keypad. Click the link for your respective model to go to the GitHub page that contains the necessary code. Click the "clone or download" button and then select "download zip." Extract it to wherever you like (I would recommend your desktop or documents folder.)
+
+- `Basic/RGB 2K/4K <https://github.com/thnikk/trinketM0>`_
+- `7K Keypad <https://github.com/thnikk/7kKeypad>`_
+- `MacroPad <https://github.com/thnikk/trinketM0Macro>`_
+- `Touch Keypad <https://github.com/thnikk/touchPad>`_
+
+Install the PlatformIO extension
+--------------------------------
+PlatformIO is what converts the code into something the keypad can understand. To install it, open VS Code and click on the icon with the 3 connected squares and one floating square in the side bar.
+
+.. image:: https://thnikk.github.io/images/rst/program/extension.png
+
+From here, you can type "platformio" into the search bar and click the install button Platformio IDE. Restart if it prompts you to.
+
+.. image:: https://thnikk.github.io/images/rst/program/pio.png
+
+Uploading the code to the keypad
+--------------------------------
+Now you can go to File>Open Folder and select the folder you extracted from the GitHub download. The folder you open should contain another folder called src.
+
+.. image:: https://thnikk.github.io/images/rst/program/folder.png
+
+Now you can click on the PlatformIO logo (the ant head) in the side bar. If you have anything starting with "Env" under project tasks, click the one for your corresponding model to expand the menu.
+
+.. image:: https://thnikk.github.io/images/rst/program/upload.png
+
+Now click upload and you should see a terminal pop up on the bottom of the screen start spitting out information. When it's done, you should see the environment you selected with "SUCCESS" next to it, meaning your keypad has been programmed!
+
+.. image:: https://thnikk.github.io/images/rst/program/terminal.png
+
+If the build fails, you should be able to scroll up to see an error message in red. If you can't figure out what the problem is (ones related to upload port usually mean the keypad isn't plugged in or you're using a bad USB cable,) please message me on Etsy with your error message and I'll do my best to help you.
+
+
+Atom (DEPRECATED)
+*****************
+
+.. warning::
+    This is an older version of the guide using Atom instead of VS Code. It should still work, but it may ask you to install Git, which you need to reboot your machine for after. VS Code is the preferred method due to its simplicity. If you HATE proprietary software and refuse to use VS Code, I would recommend using VSCodium, an open source version of VS Code.
+    The folders containing the source code have also been renamed, so if you get stuck on the uploading step, just be aware that trinketm0 > trinketM0.ino has become src > src.ino.
+
+Atom is a text editor made by GitHub, but has become somewhat redundant as GitHub was purchased by Microsoft. As such, and due to the recommendation from PlatformIO, I recommend using VS Code instead. If you would still like to proceed, you may have to install git and reboot your machine when prompted.
 
 Download Atom
 -------------
