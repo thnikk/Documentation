@@ -67,7 +67,7 @@ Menu
 All settings are accessible from the controller itself by pressing back and start simultaneously.
 
 .. warning::
-Entering the menu has changed to left+right+home to avoid conflicting with in-game actions. If you are using firmware version 1.1+ or your order shipped after 4/9/20, use these buttons instead.
+    Entering the menu has changed to left+right+home to avoid conflicting with in-game actions. If you are using firmware version 1.1+ or your order shipped after 4/9/20, use these buttons instead.
 
 .. raw:: html
 
