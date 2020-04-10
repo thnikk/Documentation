@@ -54,11 +54,14 @@ Xbox 360        No          Not compatible
 Updating Firmware
 *****************
 
-======= ====                                                =======
+To update the firmware of your Fightboard, use the latest download link below and follow the instructions in the readme.
+
+======= =================================================== =======
 Version Link                                                Changes
 ======= =================================================== =======
 1.1     (Link)[https://thnikk.moe/files/FBUpdater_1.1.zip]  Changed menu buttons from L3+R3 to L+R+Home
 ======= =================================================== =======
+
 Menu
 ****
 All settings are accessible from the controller itself by pressing back and start simultaneously.
