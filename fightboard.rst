@@ -51,10 +51,20 @@ Xbox One        Yes         `Amazon <https://www.amazon.com/Brook-Super-Converte
 PS4             Yes         `Amazon <https://www.amazon.com/Brook-Super-Converter-Xbox-360-one/dp/B018T3WKNY>`_
 Xbox 360        No          Not compatible
 ==============  ==========  =======
+Updating Firmware
+*****************
 
+======= ====                                                =======
+Version Link                                                Changes
+======= =================================================== =======
+1.1     (Link)[https://thnikk.moe/files/FBUpdater_1.1.zip]  Changed menu buttons from L3+R3 to L+R+Home
+======= =================================================== =======
 Menu
 ****
 All settings are accessible from the controller itself by pressing back and start simultaneously.
+
+.. warning::
+Entering the menu has changed to left+right+home to avoid conflicting with in-game actions. If you are using firmware version 1.1+ or your order shipped after 4/9/20, use these buttons instead.
 
 .. raw:: html
 
