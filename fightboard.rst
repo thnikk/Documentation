@@ -56,11 +56,11 @@ Updating Firmware
 
 To update the firmware of your Fightboard, use the latest download link below and follow the instructions in the readme.
 
-======= =================================================== =======
-Version Link                                                Changes
-======= =================================================== =======
-1.1     (Link)[https://thnikk.moe/files/FBUpdater_1.1.zip]  Changed menu buttons from L3+R3 to L+R+Home
-======= =================================================== =======
+======= ========                                              =======
+Version Link                                                  Changes
+======= ========                                              =======
+1.1     `Link <https://thnikk.moe/files/FBUpdater_1.1.zip>`_  Changed menu buttons from L3+R3 to L+R+Home
+======= ========                                              =======
 
 Menu
 ****
