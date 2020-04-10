@@ -51,16 +51,17 @@ Xbox One        Yes         `Amazon <https://www.amazon.com/Brook-Super-Converte
 PS4             Yes         `Amazon <https://www.amazon.com/Brook-Super-Converter-Xbox-360-one/dp/B018T3WKNY>`_
 Xbox 360        No          Not compatible
 ==============  ==========  =======
+
 Updating Firmware
 *****************
 
 To update the firmware of your Fightboard, use the latest download link below and follow the instructions in the readme.
 
-======= ========                                              =======
+======= ===================================================== ======================================================
 Version Link                                                  Changes
-======= ========                                              =======
+======= ===================================================== ======================================================
 1.1     `Link <https://thnikk.moe/files/FBUpdater_1.1.zip>`_  Changed menu buttons from L3+R3 to L+R+Home
-======= ========                                              =======
+======= ===================================================== ======================================================
 
 Menu
 ****
