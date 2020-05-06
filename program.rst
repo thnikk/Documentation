@@ -41,6 +41,9 @@ Now you can go to File>Open Folder and select the folder you extracted from the 
 
 Now you can click on the PlatformIO logo (the ant head) in the side bar. If you have anything starting with "Env" under project tasks, click the one for your corresponding model to expand the menu.
 
+.. warning::
+    If you're uploading code for the 7K model, look at the bottom of your keypad. If it says 3v on it, make sure to select the 3v environment. Failure to do so will require to open the keypad and force reset it to upload the code again.
+
 .. image:: https://thnikk.github.io/images/rst/program/upload.png
 
 Now click upload and you should see a terminal pop up on the bottom of the screen start spitting out information. When it's done, you should see the environment you selected with "SUCCESS" next to it, meaning your keypad has been programmed!
