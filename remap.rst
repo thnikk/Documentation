@@ -45,5 +45,5 @@ You can also use the Serial Monitor included in the Arduino IDE. This can be don
 
 Follow the wizard for installation and launch the program. From here you can select the port from Tools > Ports and open the Serial Monitor by clicking the magnifying glass icon in the top right of the window.
 
-..warning::
+.. warning::
     Make sure you change "Newline" to "No line ending" in the bottom right of the serial monitor or the keypad will think you're trying to map every key to a newline character.
