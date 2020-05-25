@@ -12,9 +12,13 @@ VS Code is Microsoft's text editor that makes compiling code extremely easy with
 
 Download
 --------
-VS Code can be downloaded here:
+Download and install VS Code from the link here:
 
 `Visual Studio Code <https://code.visualstudio.com/download>`_
+
+You'll also need Git so download and install it from here. Leave all defaults selected during installation.
+
+`Git <https://git-scm.com/download>`_
 
 You also need to download the code for your keypad. Click the link for your respective model to go to the GitHub page that contains the necessary code. Click the "clone or download" button and then select "download zip." Extract it to wherever you like (I would recommend your desktop or documents folder.)
 
