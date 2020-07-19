@@ -20,21 +20,6 @@ Upon opening the program, it should immediately connect to the keypad. Follow th
 
 Make sure to close Termite when you're done, otherwise it may try to reconnect and lock up your keypad.
 
-.. Put image here
-
-Mac and Linux
-*************
-
-The procedure for Mac and Linux is the same since we'll be using the screen command on both. As we do on windows, you'll first need to find the com port the keypad is using. You can do so by entering this into the terminal:
-
-:code:`dmesg | grep tty`
-
-If you just plugged the keypad in, it should be the last thing listed. In my case it's using /dev/ttyACM0. Now we can start serial communications using screen.
-
-:code:`screen /dev/ttyACM0 9600`
-
-That's it!
-
 
 Universal
 *********
@@ -47,3 +32,17 @@ Follow the wizard for installation and launch the program. From here you can sel
 
 .. warning::
     Make sure you change "Newline" to "No line ending" in the bottom right of the serial monitor or the keypad will think you're trying to map every key to a newline character.
+
+
+Mac and Linux (if you don't want to install the Arduino IDE)
+************************************************************
+
+The procedure for Mac and Linux is the same since we'll be using the screen command on both. As we do on windows, you'll first need to find the serial port of the keypad. You can do so by entering this into the terminal:
+
+:code:`dmesg | grep tty`
+
+If you just plugged the keypad in, it should be the last thing listed. In my case it's using /dev/ttyACM0. Now we can start serial communications using screen.
+
+:code:`screen /dev/ttyACM0 9600`
+
+That's it!
