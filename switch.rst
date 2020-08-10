@@ -6,7 +6,7 @@ This guide is only for keypads purchased after 3/15/19. If your keypad was purch
 What You'll Need
 ****************
 
-.. image:: https://thnikk.moe/img/docs/switchPuller.jpg
+.. image:: https://thnikk.github.io/img/docs/switchPuller.jpg
 
 -Switches
 
@@ -16,7 +16,7 @@ Removing your switches
 **********************
 This is a simple procedure and all you have to do is get the tips of the pullers under the clips on the switches and pull straight up. Any lateral force when removing switches can cause the pins to bend, so be careful to only apply force up. The switch puller is optional but I think it's much easier than using your fingers.
 
-.. image:: https://thnikk.moe/img/docs/switchRemoval.jpg
+.. image:: https://thnikk.github.io/img/docs/switchRemoval.jpg
 
 Installing new switches
 ***********************
