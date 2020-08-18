@@ -20,7 +20,9 @@ You'll also need Git so download and install it from here. Leave all defaults se
 
 `Git <https://git-scm.com/download>`_
 
-You also need to download the code for your keypad. Click the link for your respective model to go to the GitHub page that contains the necessary code. Click the "clone or download" button and then select "download zip." Extract it to wherever you like (I would recommend your desktop or documents folder.)
+You also need to download the code for your keypad. Click the link for your respective model to go to the GitHub page that contains the necessary code. Click the "Code" button in the top right and then select "download zip." Extract it to wherever you like (I would recommend your desktop or documents folder.)
+
+.. image:: https://thnikk.moe/img/docs/program/ghDownload.png
 
 - `Basic/RGB 2K/4K <https://github.com/thnikk/trinketM0>`_
 - `7K Keypad <https://github.com/thnikk/7kKeypad>`_
