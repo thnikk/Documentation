@@ -9,19 +9,19 @@ Features
 
 Ergonomic layout
 ----------------
-.. image:: https://thnikk.github.io/images/fbLayout.png
+.. image:: https://thnikk.github.io/img/fbLayout.png
 
 The Fightboard uses a combination of an arrow/wasd cluster at a 15% angle and action buttons following the traditional arcade stick layout but with the spacing of keyboard keys.
 
 Kailh Choc switches
 -------------------
-.. image:: https://thnikk.github.io/images/kailhLP.jpg
+.. image:: https://thnikk.github.io/img/kailhLP.jpg
 
 Why low-profile switches? One of my main design goals for this controller was to make it as slim as possible to improve ergonomics and portability. These low-profile switches have 3mm of travel compared to the 4mm of Cherry MX switches, with an actuation point 1mm higher as well. They also help the Fightboard come in at only 22mm thick, as the lower half of the switch is also much shorter.
 
 Hot-swap sockets
 ----------------
-.. image:: https://thnikk.github.io/images/kailhHS.png
+.. image:: https://thnikk.github.io/img/kailhHS.png
 
 Unhappy with your switch coice? Want different zones with different types of switches? All you have to do is pull them out and swap them with whatever you prefer, no soldering required.
 
