@@ -60,7 +60,9 @@ To update the firmware of your Fightboard, use the latest download link below an
 ======= ===================================================== ======================================================
 Version Link                                                  Changes
 ======= ===================================================== ======================================================
+1.0     `Link <https://thnikk.moe/files/FBUpdater.zip>`_      Inital Release
 1.1     `Link <https://thnikk.moe/files/FBUpdater_1.1.zip>`_  Changed menu buttons from L3+R3 to L+R+Home
+1.2     `Link <https://thnikk.moe/files/FBUpdater_1.2.zip>`_  Added left stick/dpad selection by pressing L3 or R3 while in the main menu
 ======= ===================================================== ======================================================
 
 Menu
@@ -80,6 +82,9 @@ All settings are accessible from the controller itself by pressing back and star
     </div>
 
 
+Direction mode
+--------------
+As of firmware version 1.2, you can change the directional keys to function as either a dpad or the left analog stick, since some games require one or the other. After entering the menu, you can press L3 to enable dpad mode (the keys will turn red) and R3 to enable left stick mode (the keys will turn yellow.)
 
 Profiles
 --------
