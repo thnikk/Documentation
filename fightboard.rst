@@ -2,7 +2,7 @@ Fightboard
 ===========
 .. image:: https://cdn.shopify.com/s/files/1/0093/7295/8767/products/IMG_0934_1024x1024@2x.jpg?v=1583586229
 
-Have you ever been frustrated with joysticks? Do you want something to use on your desk that isn't a massive box you have to put away somewhere when you're not using it? Do you prefer the natural spacing of a keyboard over the finger-stretching traditional arcade buttons? Maybe you want something that you can easily use on-the-go. The Fightboard aims to solve all of those problems.
+Have you ever been frustrated with fightsticks? Do you want something to use on your desk that isn't a massive box you have to put away somewhere when you're not using it? Do you prefer the natural spacing of a keyboard over the finger-stretching traditional arcade buttons? Maybe you want something that you can easily use on-the-go. The Fightboard aims to solve all of those problems.
 
 Features
 ********
