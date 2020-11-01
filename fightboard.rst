@@ -9,19 +9,19 @@ Features
 
 Ergonomic layout
 ----------------
-.. image:: https://thnikk.github.io/img/fbLayout.png
+.. image:: https://thnikk.moe/img/fbLayout.png
 
 The Fightboard uses a combination of an arrow/wasd cluster at a 15% angle and action buttons following the traditional arcade stick layout but with the spacing of keyboard keys.
 
 Kailh Choc switches
 -------------------
-.. image:: https://thnikk.github.io/img/kailhLP.jpg
+.. image:: https://thnikk.moe/img/kailhLP.jpg
 
 Why low-profile switches? One of my main design goals for this controller was to make it as slim as possible to improve ergonomics and portability. These low-profile switches have 3mm of travel compared to the 4mm of Cherry MX switches, with an actuation point 1mm higher as well. They also help the Fightboard come in at only 22mm thick, as the lower half of the switch is also much shorter.
 
 Hot-swap sockets
 ----------------
-.. image:: https://thnikk.github.io/img/kailhHS.png
+.. image:: https://thnikk.moe/img/kailhHS.png
 
 Unhappy with your switch coice? Want different zones with different types of switches? All you have to do is pull them out and swap them with whatever you prefer, no soldering required.
 
@@ -76,7 +76,7 @@ All settings are accessible from the controller itself by pressing back and star
 
     <div>
         <video width="100%" controls>
-            <source src="https://thnikk.github.io/files/videos/menuOpen.mp4" type="video/mp4">
+            <source src="https://thnikk.moe/files/videos/menuOpen.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
@@ -98,7 +98,7 @@ You can press the start button after entering the menu to enter the remapper. Wh
 
     <div>
         <video width="100%" controls>
-            <source src="https://thnikk.github.io/files/videos/remap.mp4" type="video/mp4">
+            <source src="https://thnikk.moe/files/videos/remap.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
@@ -113,7 +113,7 @@ You can also press back on the main menu to enter color changing mode. Pressing 
 
     <div>
         <video width="100%" controls>
-            <source src="https://thnikk.github.io/files/videos/color.mp4" type="video/mp4">
+            <source src="https://thnikk.moe/files/videos/color.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
@@ -130,7 +130,7 @@ Pressing L3 and R3 simultaneously in the main menu will clear the current profil
 
     <div>
         <video width="100%" controls>
-            <source src="https://thnikk.github.io/files/videos/reset.mp4" type="video/mp4">
+            <source src="https://thnikk.moe/files/videos/reset.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
@@ -145,7 +145,7 @@ Pressing the home button will always take you one step back out of a menu, meani
 
     <div>
         <video width="100%" controls>
-            <source src="https://thnikk.github.io/files/videos/menuClose.mp4" type="video/mp4">
+            <source src="https://thnikk.moe/files/videos/menuClose.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
