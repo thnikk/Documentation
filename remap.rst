@@ -1,6 +1,9 @@
 Remapping Your Keypad
 =================================
 
+.. warning::
+    These remapping instructions are NOT for the Fightboard. If you have a Fightboard, the 8 right keys can be swapped by using the menu built into the controller. Please visit the Fightboard page for more information.
+
 Windows
 *******
 
