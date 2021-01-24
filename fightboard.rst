@@ -91,9 +91,9 @@ Profiles
 --------
 From the main menu, you can press one of the 8 keys on the right to switch between 8 different profiles. These all have independent settings so you can set up each profile for a different game, each with different colors and mappings.
 
-Remapping
+Button swapping
 ---------
-You can press the start button after entering the menu to enter the remapper. While in the remapper, pressing one button will make it pulse quickly. Press another button and the two buttons will swap places, along with their colors.
+You can press the start button after entering the menu to enter the button swapper. In this mode, pressing one of the 8 buttons on the right will make it pulse quickly. Press another button and the two buttons will swap places, along with their colors.
 
 .. raw:: html
 
