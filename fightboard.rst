@@ -46,9 +46,9 @@ By default, the Fightboard is only compatible with PC. However, its compatibilit
 System          Compatible  Link
 ==============  ==========  =======
 PC              Yes         No adapter needed
-Switch          Yes         `Amazon <https://www.amazon.com/Gam3Gear-Converter-Nintendo-Controller-Keychain/dp/B0753XF3WT>`_
-Xbox One        Yes         `Amazon <https://www.amazon.com/Brook-Super-Converter-Controller-Adapter/dp/B00VY4MMGG>`_
-PS4             Yes         `Amazon <https://www.amazon.com/Brook-Super-Converter-Xbox-360-one/dp/B018T3WKNY>`_
+Switch          Yes         `Amazon <https://www.amazon.com/Brook-Wingman-Support-Controller-Converter/dp/B08L7JQL4P>`_
+Xbox One        Yes         `Amazon <https://www.amazon.com/Brook-Wingman-Support-Controller-Converter/dp/B08H1SYGWV>`_
+PS4             Yes         `Amazon <https://www.amazon.com/Brook-Wingman-Support-Controller-Converter/dp/B08B82M9TG>`_
 Xbox 360        No          Not compatible
 ==============  ==========  =======
 
