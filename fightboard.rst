@@ -65,7 +65,7 @@ Version Link                                                  Changes
 1.1     `Link <https://thnikk.moe/files/FBUpdater_1.1.zip>`_  Changed menu buttons from L3+R3 to L+R+Home
 1.2     `Link <https://thnikk.moe/files/FBUpdater_1.2.zip>`_  Added left stick/dpad selection by pressing L3 or R3 while in the main menu
 1.3     `Link <https://thnikk.moe/files/FBUpdater_1.3.zip>`_  Fixed color changes not saving; Fixed colors while changing colors or swapping keys
-1.4     `Link <https://thnikk.moe/files/FBUpdater_1.4.zip>`_  Fixed SOCD cleaner (up and down will now function as up.) Be aware that this is only in D-pad mode.
+1.4     `Link <https://thnikk.moe/files/FBUpdater_1.4.zip>`_  Fixed SOCD cleaner (up and down will now function as up.)
 ======= ===================================================== ======================================================
 
 Menu
