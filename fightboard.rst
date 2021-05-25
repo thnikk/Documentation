@@ -70,20 +70,7 @@ Version Link                                                  Changes
 
 Menu
 ****
-All settings are accessible from the controller itself by pressing back and start simultaneously.
-
-.. warning::
-    Entering the menu has changed to left+right+home to avoid conflicting with in-game actions. If you are using firmware version 1.1+ or your order shipped after 4/9/20, use these buttons instead.
-
-.. raw:: html
-
-    <div>
-        <video width="100%" controls>
-            <source src="https://thnikk.moe/files/videos/menuOpen.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
-
+All settings are accessible from the controller itself by pressing L3+R3+Home simultaneously.
 
 Direction mode
 --------------
