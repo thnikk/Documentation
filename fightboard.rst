@@ -39,7 +39,7 @@ Settings are all built into the keypad and allow you to remap keys on-the-fly.
 
 SOCD cleaning
 -------------
-Left+Right will cancel each other out and Up+Down will function as Down.
+Left+Right will cancel each other out and Up+Down will function as Up.
 
 Console compatibility with adapters
 -----------------------------------
