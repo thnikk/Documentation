@@ -37,16 +37,27 @@ Easy remapping
 --------------
 Settings are all built into the keypad and allow you to remap keys on-the-fly.
 
+SOCD cleaning
+-------------
+Left+Right will cancel each other out and Up+Down will function as Down.
+
 Console compatibility with adapters
 -----------------------------------
 
 By default, the Fightboard is only compatible with PC. However, its compatibility can be expanded with the purchase with an adapter that converts Xbox 360 controllers to your console of choice. Below is the full compatibility list based on my testing.
 
+FightboardHybrid Firmware
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Jason Skuby/FeralAI wrote alternative firmware for the Fightboard that adds switch functionality. Features are a little bit different from my firmware and some features are missing, but the base functionality is there. I offer no support for any missing features or bugs, but you can submit a bug report or feature request through github for the author.
+
+`Github <https://github.com/FeralAI/FightboardHybrid>`_
+`v0.1 Release <https://github.com/FeralAI/FightboardHybrid/releases/download/v0.1-alpha/FBHybridUpdater_v0.1.zip>`_
+
 ==============  ==========  =======
 System          Compatible  Link
 ==============  ==========  =======
 PC              Yes         No adapter needed
-Switch          Yes         `Amazon (Brook) <https://www.amazon.com/Brook-Wingman-Support-Controller-Converter/dp/B08L7JQL4P>`_
+Switch          Yes         See above for alternative firmware or `Amazon (Brook) <https://www.amazon.com/Brook-Wingman-Support-Controller-Converter/dp/B08L7JQL4P>`_ /
                             `Amazon (Mayflash) <https://www.amazon.com/Mayflash-Magic-NS-Wireless-Controller-Nintendo/dp/B079B5KHWQ>`_
 Xbox One        Yes         `Amazon <https://www.amazon.com/Brook-Wingman-Support-Controller-Converter/dp/B08H1SYGWV>`_
 PS4             Yes         `Amazon <https://www.amazon.com/Brook-Wingman-Support-Controller-Converter/dp/B08B82M9TG>`_
@@ -70,20 +81,7 @@ Version Link                                                  Changes
 
 Menu
 ****
-All settings are accessible from the controller itself by pressing back and start simultaneously.
-
-.. warning::
-    Entering the menu has changed to left+right+home to avoid conflicting with in-game actions. If you are using firmware version 1.1+ or your order shipped after 4/9/20, use these buttons instead.
-
-.. raw:: html
-
-    <div>
-        <video width="100%" controls>
-            <source src="https://thnikk.moe/files/videos/menuOpen.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
-
+All settings are accessible from the controller itself by pressing left+right+home.
 
 Direction mode
 --------------
