@@ -41,17 +41,31 @@ SOCD cleaning
 -------------
 Left+Right will cancel each other out and Up+Down will function as Up.
 
-Console compatibility with adapters
------------------------------------
 
-By default, the Fightboard is only compatible with PC. However, its compatibility can be expanded with the purchase with an adapter that converts Xbox 360 controllers to your console of choice. Below is the full compatibility list based on my testing.
+Firmware
+********
+As of 7/6/21, a newer version of the Fightboard was released, which will be referred to in this section as the Fightboard V2. Since the V2 was released after firmware version 1.4, that is the earliest firmware version available (though I don't recommend you use earlier firmware versions anwyay.) Read the readme in the zip for installation instructions.
 
-FightboardHybrid Firmware
-^^^^^^^^^^^^^^^^^^^^^^^^^
-Jason Skuby/FeralAI wrote alternative firmware for the Fightboard that adds switch functionality. Features are a little bit different from my firmware and some features are missing, but the base functionality is there. I offer no support for any missing features or bugs, but you can submit a bug report or feature request through github for the author.
+================ ====================================================== =========================================================== ================
+Version          Fightboard V1                                          Fightboard V2                                               Changes
+================ ====================================================== =========================================================== ================
+1.0              `Link <https://thnikk.moe/files/FBUpdater.zip>`_       --                                                          Inital release
+1.1              `Link <https://thnikk.moe/files/FBUpdater_1.1.zip>`_   --                                                          Changed menu buttons from L3+R3 to Left+Right+Home
+1.2              `Link <https://thnikk.moe/files/FBUpdater_1.2.zip>`_   --                                                          Added left stick/dpad selection by pressing L3 or R3 while in the main menu
+1.3              `Link <https://thnikk.moe/files/FBUpdater_1.3.zip>`_   --                                                          Fixed color changes not saving; Fixed colors while changing colors or swapping keys
+1.4              `Link <https://thnikk.moe/files/FBUpdater_1.4.zip>`_   `Link <https://thnikk.moe/files/FBUpdater_RGB_1.4.zip>`_    Fixed SOCD cleaner (up and down will now function as up.)
 
-`Github <https://github.com/FeralAI/FightboardHybrid>`_
-`v0.1 Release <https://github.com/FeralAI/FightboardHybrid/releases/download/v0.1-alpha/FBHybridUpdater_v0.1.zip>`_
+There is also an alternative firmware written by Jason Skuby/FeralAI that brings native compatiblity with the Nintendo switch, but is missing features like remapping and custom LED colors. Since the V2 uses different LEDs, I've made a fork of the code specific to the V2, but any feature requests or bug reports should be made to the original author's github.
+
+================ =================================================================================== ===========================================================
+Version          Fightboard V1                                                                       Fightboard V2
+================ =================================================================================== ===========================================================
+0.1              `Link <https://github.com/FeralAI/FightboardHybrid/releases/tag/v0.1-alpha>`_       `Link <https://github.com/thnikk/FightboardHybrid/releases/tag/v0.1.1-alpha>`_
+
+
+Compatibility
+*************
+The Fightboard is only compatible with PC out of the box, but can be made compatible with the adapters listed below (and the Switch with the firmware above.)
 
 ==============  ==========  =======
 System          Compatible  Link
@@ -64,20 +78,6 @@ PS4             Yes         `Amazon <https://www.amazon.com/Brook-Wingman-Suppor
 Xbox 360        No          Not compatible
 ==============  ==========  =======
 
-Updating Firmware
-*****************
-
-To update the firmware of your Fightboard, use the latest download link below and follow the instructions in the readme.
-
-======= ===================================================== ======================================================
-Version Link                                                  Changes
-======= ===================================================== ======================================================
-1.0     `Link <https://thnikk.moe/files/FBUpdater.zip>`_      Inital Release
-1.1     `Link <https://thnikk.moe/files/FBUpdater_1.1.zip>`_  Changed menu buttons from L3+R3 to L+R+Home
-1.2     `Link <https://thnikk.moe/files/FBUpdater_1.2.zip>`_  Added left stick/dpad selection by pressing L3 or R3 while in the main menu
-1.3     `Link <https://thnikk.moe/files/FBUpdater_1.3.zip>`_  Fixed color changes not saving; Fixed colors while changing colors or swapping keys
-1.4     `Link <https://thnikk.moe/files/FBUpdater_1.4.zip>`_  Fixed SOCD cleaner (up and down will now function as up.)
-======= ===================================================== ======================================================
 
 Menu
 ****
