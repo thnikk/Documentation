@@ -54,6 +54,7 @@ Version          Fightboard V1                                          Fightboa
 1.2              `Link <https://thnikk.moe/files/FBUpdater_1.2.zip>`_   --                                                          Added left stick/dpad selection by pressing L3 or R3 while in the main menu
 1.3              `Link <https://thnikk.moe/files/FBUpdater_1.3.zip>`_   --                                                          Fixed color changes not saving; Fixed colors while changing colors or swapping keys
 1.4              `Link <https://thnikk.moe/files/FBUpdater_1.4.zip>`_   `Link <https://thnikk.moe/files/FBUpdater_RGB_1.4.zip>`_    Fixed SOCD cleaner (up and down will now function as up.)
+================ ====================================================== =========================================================== ===============
 
 There is also an alternative firmware written by Jason Skuby/FeralAI that brings native compatiblity with the Nintendo switch, but is missing features like remapping and custom LED colors. Since the V2 uses different LEDs, I've made a fork of the code specific to the V2, but any feature requests or bug reports should be made to the original author's github.
 
@@ -61,6 +62,7 @@ There is also an alternative firmware written by Jason Skuby/FeralAI that brings
 Version          Fightboard V1                                                                       Fightboard V2
 ================ =================================================================================== ===========================================================
 0.1              `Link <https://github.com/FeralAI/FightboardHybrid/releases/tag/v0.1-alpha>`_       `Link <https://github.com/thnikk/FightboardHybrid/releases/tag/v0.1.1-alpha>`_
+================ =================================================================================== ===========================================================
 
 
 Compatibility
