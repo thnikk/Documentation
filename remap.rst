@@ -39,15 +39,11 @@ Follow the wizard for installation and launch the program. From here you can sel
     Make sure you change "Newline" to "No line ending" in the bottom right of the serial monitor or the keypad will think you're trying to map every key to a newline character.
 
 
-Mac and Linux (if you don't want to install the Arduino IDE)
+Mac and Linux (Terminal)
 ************************************************************
 
-The procedure for Mac and Linux is the same since we'll be using the screen command on both. As we do on windows, you'll first need to find the serial port of the keypad. You can do so by entering this into the terminal:
+The procedure for Mac and Linux is the same since we'll be using the screen command on both. This command finds the first matching serial device (should be /dev/ttyACM* on linux and /dev/cu.usbmodem* on mac) and opens a screen session with the correct baudrate.
 
-:code:`dmesg | grep tty`
-
-If you just plugged the keypad in, it should be the last thing listed. In my case it's using /dev/ttyACM0. Now we can start serial communications using screen.
-
-:code:`screen /dev/ttyACM0 9600`
+:code:`screen $(ls -d /dev/* | grep "ACM\|usbmodem") 9600`
 
 That's it!
