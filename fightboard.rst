@@ -85,6 +85,10 @@ Menu
 ****
 All settings are accessible from the controller itself by pressing left+right+home.
 
+Brightness control
+------------------
+You can increase or decrease the brightness of the LEDs by holding up or down from the main menu.
+
 Direction mode
 --------------
 As of firmware version 1.2, you can change the directional keys to function as either a dpad or the left analog stick, since some games require one or the other. After entering the menu, you can press L3 to enable dpad mode (the keys will turn red) and R3 to enable left stick mode (the keys will turn yellow.)
